@@ -19,3 +19,11 @@ Off Policy method doing
 * Have a working code for PPO continuous step
 
 This is helpful to make sure PPO works: https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
+
+## Folder Structure
+
+1. Simple Discrete Problems
+2. Simple Continuous Problems
+3. Continuous Problem
+4. GPU utilization
