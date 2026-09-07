@@ -7,3 +7,15 @@ File system
 
 * Basic tutorial to use pycharm, gpu, and gpu parallelization
 * automated insulin project
+
+Goal:
+
+On policy method doing:
+* Have a working code for PPO discrete steps
+* Have a working code for PPO continuous step
+
+Off Policy method doing
+* Have a working code for PPO discrete steps
+* Have a working code for PPO continuous step
+
+This is helpful to make sure PPO works: https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
