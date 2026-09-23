@@ -27,3 +27,7 @@ This is helpful to make sure PPO works: https://iclr-blog-track.github.io/2022/0
 2. Simple Continuous Problems
 3. Continuous Problem
 4. GPU utilization
+
+## Key terms and Topics (dictionary)
+
+amortize : paying the heavy cost during training so the inference is quite fast
