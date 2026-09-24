@@ -6,6 +6,7 @@ Different types of Neural Networks
 * RNN
 * Sequential
 * CNN
+* LSTM
 
 Different types of Architecture
 * Transformer
